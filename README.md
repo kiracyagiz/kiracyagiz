@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img alt="Coding" src="https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif" width ="850" height="350"/>
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">A passionate android developer from Albania</h3>
 <img align = "right" alt="Coding" width="400" src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
