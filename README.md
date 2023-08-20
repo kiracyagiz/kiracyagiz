@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 💬 Ask me about **Android, Kotlin**
 
 - 📫 How to reach me **kiracyagiz@gmail.com**
 
